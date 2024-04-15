@@ -7,27 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		51592EB52BCDA50200BD734D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51592EB42BCDA50200BD734D /* AppDelegate.swift */; };
-		51592EB72BCDA50200BD734D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51592EB62BCDA50200BD734D /* SceneDelegate.swift */; };
-		51592EB92BCDA50200BD734D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51592EB82BCDA50200BD734D /* ViewController.swift */; };
-		51592EBC2BCDA50200BD734D /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 51592EBB2BCDA50200BD734D /* Base */; };
-		51592EBE2BCDA50300BD734D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51592EBD2BCDA50300BD734D /* Assets.xcassets */; };
-		51592EC12BCDA50300BD734D /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 51592EC02BCDA50300BD734D /* Base */; };
+		05C2ECDD2BA2361B00634EF0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C2ECDC2BA2361B00634EF0 /* AppDelegate.swift */; };
+		05C2ECDF2BA2361B00634EF0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C2ECDE2BA2361B00634EF0 /* SceneDelegate.swift */; };
+		05C2ECE12BA2361B00634EF0 /* CalculateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C2ECE02BA2361B00634EF0 /* CalculateViewController.swift */; };
+		05C2ECE42BA2361B00634EF0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05C2ECE22BA2361B00634EF0 /* Main.storyboard */; };
+		05C2ECE62BA2361E00634EF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05C2ECE52BA2361E00634EF0 /* Assets.xcassets */; };
+		05C2ECE92BA2361E00634EF0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05C2ECE72BA2361E00634EF0 /* LaunchScreen.storyboard */; };
+		05C2ECFB2BA3077A00634EF0 /* TotalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C2ECFA2BA3077A00634EF0 /* TotalViewController.swift */; };
+		05C2ECFE2BA3117900634EF0 /* TipBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C2ECFD2BA3117900634EF0 /* TipBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		51592EB12BCDA50200BD734D /* Tipsy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tipsy.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		51592EB42BCDA50200BD734D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		51592EB62BCDA50200BD734D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		51592EB82BCDA50200BD734D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		51592EBB2BCDA50200BD734D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		51592EBD2BCDA50300BD734D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		51592EC02BCDA50300BD734D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		51592EC22BCDA50300BD734D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		05C2ECD92BA2361B00634EF0 /* Tipsy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tipsy.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		05C2ECDC2BA2361B00634EF0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		05C2ECDE2BA2361B00634EF0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		05C2ECE02BA2361B00634EF0 /* CalculateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateViewController.swift; sourceTree = "<group>"; };
+		05C2ECE32BA2361B00634EF0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		05C2ECE52BA2361E00634EF0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		05C2ECE82BA2361E00634EF0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		05C2ECEA2BA2361E00634EF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		05C2ECFA2BA3077A00634EF0 /* TotalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TotalViewController.swift; path = Tipsy/Views/TotalViewController.swift; sourceTree = SOURCE_ROOT; };
+		05C2ECFD2BA3117900634EF0 /* TipBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		51592EAE2BCDA50200BD734D /* Frameworks */ = {
+		05C2ECD62BA2361B00634EF0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,46 +41,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		51592EA82BCDA50200BD734D = {
+		05C2ECD02BA2361A00634EF0 = {
 			isa = PBXGroup;
 			children = (
-				51592EB32BCDA50200BD734D /* Tipsy */,
-				51592EB22BCDA50200BD734D /* Products */,
+				05C2ECDB2BA2361B00634EF0 /* Tipsy */,
+				05C2ECDA2BA2361B00634EF0 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		51592EB22BCDA50200BD734D /* Products */ = {
+		05C2ECDA2BA2361B00634EF0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				51592EB12BCDA50200BD734D /* Tipsy.app */,
+				05C2ECD92BA2361B00634EF0 /* Tipsy.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		51592EB32BCDA50200BD734D /* Tipsy */ = {
+		05C2ECDB2BA2361B00634EF0 /* Tipsy */ = {
 			isa = PBXGroup;
 			children = (
-				51592EB42BCDA50200BD734D /* AppDelegate.swift */,
-				51592EB62BCDA50200BD734D /* SceneDelegate.swift */,
-				51592EB82BCDA50200BD734D /* ViewController.swift */,
-				51592EBA2BCDA50200BD734D /* Main.storyboard */,
-				51592EBD2BCDA50300BD734D /* Assets.xcassets */,
-				51592EBF2BCDA50300BD734D /* LaunchScreen.storyboard */,
-				51592EC22BCDA50300BD734D /* Info.plist */,
+				05C2ECDC2BA2361B00634EF0 /* AppDelegate.swift */,
+				05C2ECDE2BA2361B00634EF0 /* SceneDelegate.swift */,
+				05C2ECFC2BA3107700634EF0 /* Modules */,
+				05C2ECF12BA23B1B00634EF0 /* Controllers */,
+				05C2ECF02BA23B1000634EF0 /* Views */,
+				05C2ECE52BA2361E00634EF0 /* Assets.xcassets */,
+				05C2ECE72BA2361E00634EF0 /* LaunchScreen.storyboard */,
+				05C2ECEA2BA2361E00634EF0 /* Info.plist */,
 			);
 			path = Tipsy;
+			sourceTree = "<group>";
+		};
+		05C2ECF02BA23B1000634EF0 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				05C2ECE22BA2361B00634EF0 /* Main.storyboard */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		05C2ECF12BA23B1B00634EF0 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				05C2ECFA2BA3077A00634EF0 /* TotalViewController.swift */,
+				05C2ECE02BA2361B00634EF0 /* CalculateViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		05C2ECFC2BA3107700634EF0 /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+				05C2ECFD2BA3117900634EF0 /* TipBrain.swift */,
+			);
+			path = Modules;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		51592EB02BCDA50200BD734D /* Tipsy */ = {
+		05C2ECD82BA2361B00634EF0 /* Tipsy */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 51592EC52BCDA50300BD734D /* Build configuration list for PBXNativeTarget "Tipsy" */;
+			buildConfigurationList = 05C2ECED2BA2361E00634EF0 /* Build configuration list for PBXNativeTarget "Tipsy" */;
 			buildPhases = (
-				51592EAD2BCDA50200BD734D /* Sources */,
-				51592EAE2BCDA50200BD734D /* Frameworks */,
-				51592EAF2BCDA50200BD734D /* Resources */,
+				05C2ECD52BA2361B00634EF0 /* Sources */,
+				05C2ECD62BA2361B00634EF0 /* Frameworks */,
+				05C2ECD72BA2361B00634EF0 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -84,25 +114,25 @@
 			);
 			name = Tipsy;
 			productName = Tipsy;
-			productReference = 51592EB12BCDA50200BD734D /* Tipsy.app */;
+			productReference = 05C2ECD92BA2361B00634EF0 /* Tipsy.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		51592EA92BCDA50200BD734D /* Project object */ = {
+		05C2ECD12BA2361A00634EF0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1530;
-				LastUpgradeCheck = 1530;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
 				TargetAttributes = {
-					51592EB02BCDA50200BD734D = {
-						CreatedOnToolsVersion = 15.3;
+					05C2ECD82BA2361B00634EF0 = {
+						CreatedOnToolsVersion = 15.2;
 					};
 				};
 			};
-			buildConfigurationList = 51592EAC2BCDA50200BD734D /* Build configuration list for PBXProject "Tipsy" */;
+			buildConfigurationList = 05C2ECD42BA2361A00634EF0 /* Build configuration list for PBXProject "Tipsy" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +140,57 @@
 				en,
 				Base,
 			);
-			mainGroup = 51592EA82BCDA50200BD734D;
-			productRefGroup = 51592EB22BCDA50200BD734D /* Products */;
+			mainGroup = 05C2ECD02BA2361A00634EF0;
+			productRefGroup = 05C2ECDA2BA2361B00634EF0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				51592EB02BCDA50200BD734D /* Tipsy */,
+				05C2ECD82BA2361B00634EF0 /* Tipsy */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		51592EAF2BCDA50200BD734D /* Resources */ = {
+		05C2ECD72BA2361B00634EF0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				51592EBE2BCDA50300BD734D /* Assets.xcassets in Resources */,
-				51592EC12BCDA50300BD734D /* Base in Resources */,
-				51592EBC2BCDA50200BD734D /* Base in Resources */,
+				05C2ECE92BA2361E00634EF0 /* LaunchScreen.storyboard in Resources */,
+				05C2ECE62BA2361E00634EF0 /* Assets.xcassets in Resources */,
+				05C2ECE42BA2361B00634EF0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		51592EAD2BCDA50200BD734D /* Sources */ = {
+		05C2ECD52BA2361B00634EF0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				51592EB92BCDA50200BD734D /* ViewController.swift in Sources */,
-				51592EB52BCDA50200BD734D /* AppDelegate.swift in Sources */,
-				51592EB72BCDA50200BD734D /* SceneDelegate.swift in Sources */,
+				05C2ECE12BA2361B00634EF0 /* CalculateViewController.swift in Sources */,
+				05C2ECDD2BA2361B00634EF0 /* AppDelegate.swift in Sources */,
+				05C2ECDF2BA2361B00634EF0 /* SceneDelegate.swift in Sources */,
+				05C2ECFB2BA3077A00634EF0 /* TotalViewController.swift in Sources */,
+				05C2ECFE2BA3117900634EF0 /* TipBrain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		51592EBA2BCDA50200BD734D /* Main.storyboard */ = {
+		05C2ECE22BA2361B00634EF0 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				51592EBB2BCDA50200BD734D /* Base */,
+				05C2ECE32BA2361B00634EF0 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		51592EBF2BCDA50300BD734D /* LaunchScreen.storyboard */ = {
+		05C2ECE72BA2361E00634EF0 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				51592EC02BCDA50300BD734D /* Base */,
+				05C2ECE82BA2361E00634EF0 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +198,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		51592EC32BCDA50300BD734D /* Debug */ = {
+		05C2ECEB2BA2361E00634EF0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -218,7 +250,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -229,7 +261,7 @@
 			};
 			name = Debug;
 		};
-		51592EC42BCDA50300BD734D /* Release */ = {
+		05C2ECEC2BA2361E00634EF0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -275,7 +307,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -285,7 +317,7 @@
 			};
 			name = Release;
 		};
-		51592EC62BCDA50300BD734D /* Debug */ = {
+		05C2ECEE2BA2361E00634EF0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -298,14 +330,14 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = vorobei.co.Tipsy;
+				PRODUCT_BUNDLE_IDENTIFIER = "yuliia-vorobei.Tipsy";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -317,7 +349,7 @@
 			};
 			name = Debug;
 		};
-		51592EC72BCDA50300BD734D /* Release */ = {
+		05C2ECEF2BA2361E00634EF0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -330,14 +362,14 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = vorobei.co.Tipsy;
+				PRODUCT_BUNDLE_IDENTIFIER = "yuliia-vorobei.Tipsy";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -352,25 +384,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		51592EAC2BCDA50200BD734D /* Build configuration list for PBXProject "Tipsy" */ = {
+		05C2ECD42BA2361A00634EF0 /* Build configuration list for PBXProject "Tipsy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				51592EC32BCDA50300BD734D /* Debug */,
-				51592EC42BCDA50300BD734D /* Release */,
+				05C2ECEB2BA2361E00634EF0 /* Debug */,
+				05C2ECEC2BA2361E00634EF0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		51592EC52BCDA50300BD734D /* Build configuration list for PBXNativeTarget "Tipsy" */ = {
+		05C2ECED2BA2361E00634EF0 /* Build configuration list for PBXNativeTarget "Tipsy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				51592EC62BCDA50300BD734D /* Debug */,
-				51592EC72BCDA50300BD734D /* Release */,
+				05C2ECEE2BA2361E00634EF0 /* Debug */,
+				05C2ECEF2BA2361E00634EF0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 51592EA92BCDA50200BD734D /* Project object */;
+	rootObject = 05C2ECD12BA2361A00634EF0 /* Project object */;
 }
