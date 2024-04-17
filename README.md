@@ -10,4 +10,4 @@ This is the tip-calculating app that helps people to split the bill. No one can 
 
 ## About project
 
-The project has been created by using Swift, and Storyboard.
+The project has been created by using Swift, Storyboard (+ Auto Layout), and following the MVC pattern. Tipsy consists of two screens.
